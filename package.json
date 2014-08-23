@@ -3,5 +3,6 @@
   "version": "0.1.0",
   "files": [
     "query-string-nonfork.js"
-  ]
+  ],
+  "main": "query-string-nonfork.js"
 }
