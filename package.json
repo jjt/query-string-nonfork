@@ -1,4 +1,7 @@
 {
   "name": "query-string-nonfork",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "files": [
+    "query-string-nonfork.js"
+  ]
 }
